@@ -2,10 +2,10 @@
   "name": "hnrss_cors_proxy",
   "version": "1.0.0",
   "description": "",
-  "main": "cors_proxy.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node cors_proxy.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
