@@ -4,7 +4,8 @@
   "description": "",
   "main": "cors_proxy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cors_proxy.js"
   },
   "repository": {
     "type": "git",
