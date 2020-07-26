@@ -1,0 +1,19 @@
+{
+  "name": "hnrss_cors_proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cors_proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darvishzadeh/hnrss_cors_proxy.git"
+  },
+  "author": "Sonny Darvishzadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darvishzadeh/hnrss_cors_proxy/issues"
+  },
+  "homepage": "https://github.com/darvishzadeh/hnrss_cors_proxy#readme"
+}
