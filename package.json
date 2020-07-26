@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/darvishzadeh/hnrss_cors_proxy/issues"
   },
-  "homepage": "https://github.com/darvishzadeh/hnrss_cors_proxy#readme"
+  "homepage": "https://github.com/darvishzadeh/hnrss_cors_proxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
 }
